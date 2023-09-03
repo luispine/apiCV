@@ -1,9 +1,13 @@
 {
-  "name"  : "Adolfo Centeno",
-  "email" : "adsoft@live.com.mx",
-  "cel"   : "(272)190 8413",
-  "social": {
-    "face": "^2.8.5",
-    "x": "^4.18.2"
-  }
+  
+  "name" : "luis vazquez",
+  "charges": "Software Engineer",
+  "objetive":"doing my stuff, thats it",
+  "photo":"https://liga...../.....",
+  "email" : "vazquezcedar@outlook.com",
+  "cel" : "(271) 243 1321",
+  "ubication": "fortin Mex.",
+  "social": "@luisVazzq"
+  
 }
+
