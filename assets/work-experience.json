@@ -1,0 +1,40 @@
+[
+    {
+        "puesto": "frontend developer",
+        "empresa": "amazon",
+        "fecha_in": "08/2022",
+        "fecha_fin": "pressent",
+        "ciudad": "san francisco",
+        "pais": "USA",
+        "logros": [
+            {
+                "logro": "wed site x"
+            },
+            {
+                "logro": "he get a new car"
+            },
+            {
+                "logro": "doing something"
+            }
+        ]
+    },
+    {
+        "puesto": "backend developer",
+        "empresa": "facebook",
+        "fecha_in": "08/2023",
+        "fecha_fin": "pressent",
+        "ciudad": "salem",
+        "pais": "USA",
+        "logros": [
+            {
+                "logro": "wed site x"
+            },
+            {
+                "logro": "he get a new car"
+            },
+            {
+                "logro": "doing something"
+            }
+        ]
+    }
+]
